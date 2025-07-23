@@ -14,10 +14,7 @@ We explore **Metric-Semantic SLAM** techniques to reconstruct a 3D map of the gr
 ## 📄 Contents
 
 - `Perception_report_Part_1__Falak_and_Ganga_.pdf`: Detailed technical report covering our methodology, results, and analysis.
-- `/videos-SLAM`: A folder containing demonstration videos showcasing:
-  - SLAM reconstructions using Kimera and RTAB-Map
-  - Object segmentation and localization results
-
+- For videos refer: https://indianinstituteofscience-my.sharepoint.com/:f:/g/personal/falakfatima_iisc_ac_in/Eh4j7PTNXO1InAwmaEWQ_WwBF3Fdr1QTpbL60Ipvv_jqUQ?e=wiZo6u
 ## 🧠 Key Highlights
 
 - **Kimera**: Provided accurate visual-inertial SLAM with dense semantic mesh reconstruction.
